@@ -1,0 +1,14 @@
+### GERAL ###
+# Arquivos de compilacao em GCC
+*.o
+*.exe
+executavel
+
+### LINUX ###
+
+### WINDOWS ###
+# Thumbnail cache
+Thumbs.db
+# Configuracao de pastas
+Desktop.ini
+$RECYCLE.BIN/
